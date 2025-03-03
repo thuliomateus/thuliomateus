@@ -2,7 +2,6 @@
 
 - 🌱 atualmente estou estudando front -end no curso de ads 
 - 📫 contateme: thuliomateus4@gmail.com
-- 😄 Pronouns: ele/dele
 - ⚡ Fun fact: ...
 <div>
   <a href="https://github.com/thuliomateus">
