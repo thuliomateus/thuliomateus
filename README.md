@@ -1,6 +1,6 @@
 ### Hi there ! eu sou thulio mateus
 
-- 🌱 atualmente estou estudando front -end no curso de ads 
+- 🌱 Atualmente estou à procura de um emprego após finalizar o curso de nível superior de adc 
 - 📫 contateme: thuliomateus4@gmail.com
 - ⚡ Fun fact: ...
 <div>
